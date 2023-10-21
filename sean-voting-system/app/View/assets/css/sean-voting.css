@@ -7,6 +7,7 @@
     text-transform: uppercase;
     font-weight: bold;
     align-items: center;
+    background-color: transparent;
     color: #333;
     margin: 15px;
 }
@@ -20,6 +21,7 @@
     margin: 0 5px;
     font-weight: bold;
     cursor: pointer;
+    background-color: transparent;
     display: flex;
     align-items: center;
     border-radius: 5px;

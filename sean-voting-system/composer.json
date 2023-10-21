@@ -1,0 +1,17 @@
+{
+    "name": "seanfarrugia/sean-voting-system",
+    "type": "project",
+    "license": "LICENCE.txt",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "seanfarrugia",
+            "email": "sean2699@gmail.com"
+        }
+    ],
+    "require": {}
+}

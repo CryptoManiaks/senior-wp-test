@@ -83,7 +83,7 @@ access_log
 #===================================#
 #       Vendor and npm Files        #
 #===================================#
-vendor
+#vendor
 node_modules
 package-lock.json
 composer.lock
